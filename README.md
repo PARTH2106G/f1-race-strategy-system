@@ -1,2 +1,21 @@
-# f1-race-strategy-system
-F1 Race Strategy Project using Java, Servlets, and MySQL
+# 🏎️ F1 Race Strategy System
+
+## 📌 Description
+This project simulates Formula 1 race strategy using Java, Servlets, and MySQL.
+
+## ⚙️ Features
+- Fuel optimization
+- Pit stop prediction
+- Database storage
+- Multithreading alerts
+
+## 🛠️ Technologies
+- Java
+- MySQL
+- Servlets
+- HTML/CSS
+
+## 🚀 How to Run
+1. Setup MySQL database
+2. Deploy on Tomcat
+3. Run in browser
